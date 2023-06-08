@@ -1,9 +1,9 @@
 import { useState, useEffect, useRef } from 'react'
-import { getAllPostIds, getPostData } from '../../lib/posts'
+import { getAllPostIds, getPostData } from '../lib/posts'
 import utilStyles from '../../styles/utils.module.css'
 import { GetStaticProps, GetStaticPaths } from 'next'
 import * as eCharts from 'echarts'
-import { Option } from '../lib/chart'
+//import { Option } from '../lib/chart'
 
 export default function Echart(props: any){
 
