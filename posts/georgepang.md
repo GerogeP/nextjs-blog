@@ -308,7 +308,7 @@ This is a mobile app for pharmacies.
 - Develop desktop version of  Administration System
 - Develop manage accounts, business data, pictures and more, using typescript and react
 - Modeling the  Databases and realize them
-- ntegrating MySQL and MongoDB, to decrease the respond time to be within one second
+- Integrating MySQL and MongoDB, to decrease the respond time to be within one second
 - Data cleaning and consolidation
 - Set up database for MySQL and MongoDB through python pandas lib
 - Import from and Export to the excel sheets of drugs, diseases, symptoms, recipes etc
