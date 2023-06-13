@@ -15,6 +15,10 @@ date: '2023-06-10'
 - Over 5 years working experiences in front end development. Familiar with ES6, HTML5, CSS3, and  have mastered nodesjs tools and frameworks like React, Next, Electron. The  rust hosted framework Taori is being studied roght now.  
 - Technical driven, with good communication and logical thinking, with strong learning ability and conscientious work attitude.
 
+- [ Demo Pages ]( http://101.35.200.235/) 
+- [ GITHUB ](https://github.com/GerogeP)
+- [ GITEE ](https://gitee.com/panglili)
+
 ## Technical Skills
 Technologies used recently including:
 - **front-end:**  	electron, react, angular, node, HTML,  CSS, typescript
