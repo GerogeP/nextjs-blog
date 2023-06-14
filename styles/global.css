@@ -8,8 +8,6 @@ body {
 	font-size: 18px;
 	left: 0px;
 	top: 0px;
-	width: 100vw;
-	height: 100vh;
 	opacity: 1;
 	background: linear-gradient(180deg, rgba(132, 250, 176, 1) 0%, rgba(143, 211, 244, 1) 100%);
 
